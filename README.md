@@ -1,2 +1,4 @@
 # kaurovandrii96.github.io
-test task
+my projects
+
+[Test task New Digital](https://kaurovandrii96.github.io/new_digital/ "Test task")
